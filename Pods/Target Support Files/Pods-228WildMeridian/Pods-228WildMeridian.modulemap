@@ -1,0 +1,6 @@
+framework module Pods_228WildMeridian {
+  umbrella header "Pods-228WildMeridian-umbrella.h"
+
+  export *
+  module * { export * }
+}
